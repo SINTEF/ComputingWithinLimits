@@ -26,6 +26,11 @@ Computing within Limits shares parts of its motivation and goals with other rese
 - Crisis informatics: concerned with technology-based studies of disaster planning and response​
 - ICTD: (Information and Communication Technology for Development) explored the potential of computing for improving the socioeconomic situation of the poor. ​
 - Sustainable Interaction Design: identify how interaction designs lead to material effects
+
+## Related topics
+
+- Permacomputing.
+- Frugal computing
 - Sustainable computing: an umbrella term for Computing viewed in the light of sustainability [^2]
 
 
@@ -34,6 +39,8 @@ Computing within Limits shares parts of its motivation and goals with other rese
 - [Computing within limits](https://computingwithinlimits.org/)
 - [ICT for sustainability (ICT4S)](https://conf.researchr.org/home/ict4s-2025)
 - [Sustainable AI conference](https://www.iwe.uni-bonn.de/en/events/sustainable-ai-conference-2025)
+
+
 
 ## Authors
 - Human-Computer Interaction [(HCI) group](https://www.sintef.no/en/expert-list/digital/sustainable-communication-technologies/human-computer-interaction-hci/): Maria Emine Nylund and Ophelia Prillard
