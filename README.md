@@ -57,6 +57,11 @@ In this section we collect forms of computing that are related to and relevant f
 A useful countdown for "Responsible Computing and Sustainable ICT" submission deadlines can be found at [https://responsible-computing.github.io](https://responsible-computing.github.io).
 
 
+## Books
+
+- Joseph Tainter (1988): [The collapse of complex societies](https://www.sustainable.soltechdesigns.com/Joseph-A-Tainter-The-collapse-of-complex-societies.pdf)
+
+
 ## Authors
 
 The main contributors of this repository are researchers at SINTEF:
