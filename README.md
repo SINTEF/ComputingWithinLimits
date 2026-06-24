@@ -69,6 +69,10 @@ The main contributors of this repository are researchers at SINTEF:
 - Human-Computer Interaction [(HCI) group](https://www.sintef.no/en/expert-list/digital/sustainable-communication-technologies/human-computer-interaction-hci/): Maria Emine Nylund and Ophelia Prillard
 - Trustworthy Green IoT Software [group](https://www.sintef.no/en/digital/departments/department-of-sustainable-communication-technologies/trustworthy-green-iot-software-research-group/): Erik Johannes Husom
 
+## Contributions
+
+Contributions are welcome! Send an e-mail to either [Maria](maria.nylund@sintef.no) or [Erik Johannes](erik.johannes.husom@sintef.no), or, if you are familiar with git/GitHub, you can make a [pull request](https://github.com/SINTEF/ComputingWithinLimits/pulls) in the [GitHub repo](https://github.com/SINTEF/ComputingWithinLimits).
+
 ## Sources
 
 [^1]: Nardi, B., Tomlinson, B., Patterson, D. J., Chen, J., Pargman, D., Raghavan, B., & Penzenstadler, B. (2018). Computing within limits. Communications of the ACM, 61(10), 86-93.
