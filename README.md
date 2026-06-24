@@ -1,6 +1,6 @@
 # Computing within Limits
 
-This is a knowledge hub for the Computing within Limits research field, created as a part of a research project at the research institution [SINTEF](https://www.sintef.no/en/).
+This is a knowledge hub for the [Computing within Limits](https://computingwithinlimits.org/) research field, created as a part of a research project at the research institution [SINTEF](https://www.sintef.no/en/).
 
 ## What is "Computing within Limits"?
 
@@ -61,6 +61,9 @@ A useful countdown for "Responsible Computing and Sustainable ICT" submission de
 
 - Joseph Tainter (1988): [The collapse of complex societies](https://www.sustainable.soltechdesigns.com/Joseph-A-Tainter-The-collapse-of-complex-societies.pdf)
 
+## Various initiatives
+
+- [Small File Media Society](https://smallfile.ca/about/)
 
 ## Authors
 
